@@ -2,7 +2,7 @@
   "name": "Max Builds Xj's",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://MaxBuildsXjs.github.io/maxbuildsxjs",
+  "homepage": "https://maxbuildsxjs.com/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
